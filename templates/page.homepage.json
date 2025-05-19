@@ -19,6 +19,25 @@
     },
     "image_banner_new_RMVQxA": {
       "type": "image-banner-new",
+      "blocks": {
+        "heading_9wHcYH": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Gift Guide",
+            "sub_heading": "Discover Joy: Your Ulitmate Holiday Gift Destination. Explore our curated selection and find the perfect gifts to delight your loved ones this holiday season.",
+            "button_text": "Shop Now",
+            "button_url": "shopify://pages/new-homepage",
+            "bottom_text": "SUSTAINABLE, ETHICALLY MADE CLOTHES IN XXS TO 6XL",
+            "top_text_1": "Tisso Vison",
+            "top_text_2": "Find the ideal gift for your loved ones.",
+            "top_text_3": "Choose Gift",
+            "top_url": "shopify://pages/new-homepage"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9wHcYH"
+      ],
       "name": "Image Banner New",
       "settings": {
         "image": "shopify://shop_images/Untitled_1.png"
