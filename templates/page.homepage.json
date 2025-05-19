@@ -42,10 +42,36 @@
       "settings": {
         "image": "shopify://shop_images/Untitled_1.png"
       }
+    },
+    "homefeatured_products_rpkeWy": {
+      "type": "homefeatured-products",
+      "blocks": {
+        "product_list_36PdjJ": {
+          "type": "product_list",
+          "settings": {
+            "product_list": [
+              "black-leather-bag",
+              "blue-silk-tuxedo",
+              "chequered-red-shirt",
+              "classic-leather-jacket",
+              "classic-varsity-top",
+              "dark-denim-top"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "product_list_36PdjJ"
+      ],
+      "name": "Home Featured Products",
+      "settings": {
+        "featured_heading": ""
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_new_RMVQxA"
+    "image_banner_new_RMVQxA",
+    "homefeatured_products_rpkeWy"
   ]
 }
